@@ -19,6 +19,7 @@ function setup() {
   angleMode(DEGREES);
   wMargin= width/margin;
    hMargin=height/margin;
+   background(238,238,238);
 }
 
 function draw() {
